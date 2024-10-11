@@ -13,5 +13,6 @@
     tree
     vim
     wget
+    wl-clipboard
   ];
 }
