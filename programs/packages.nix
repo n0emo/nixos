@@ -8,10 +8,9 @@
     firefox
     git
     kitty
-    neovim
     telegram-desktop
     tree
-    vim
+    unzip
     wget
     wl-clipboard
   ];
